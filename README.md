@@ -15,11 +15,13 @@
   *Harry Potter is a film series based on the eponymous novels by J. K. Rowling. The series is produced and distributed by Warner Bros. Pictures and consists of eight fantasy films, beginning with Harry Potter and the Philosopher's Stone and culminating with Harry Potter and the Deathly Hallows – Part 2.*
   
 3. **Miss Peregrine's Home For Peculiar Children** 
+
  ![image](https://user-images.githubusercontent.com/103399361/205434873-593a9ddd-6b20-4756-8cd2-4ceac36ee0ee.png)
 
 *Miss Peregrine's Home for Peculiar Children is a 2016 fantasy film directed by Tim Burton and written by Jane Goldman, based on the 2011 novel of the same name by Ransom Riggs.*
 
 4. **Hunger Games Series** 
+
  ![image](https://user-images.githubusercontent.com/103399361/205434815-7a897884-f65f-4ae5-9601-96f3870718b0.png)
 
  *The Hunger Games film series is composed of science fiction dystopian adventure films, based on The Hunger Games trilogy of novels by the American author Suzanne Collins.*
