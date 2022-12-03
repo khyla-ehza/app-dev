@@ -29,6 +29,7 @@
 5. **Stranger Things**
   ![image](https://user-images.githubusercontent.com/103399361/205434822-a7d9f372-abc1-4074-bb99-0a7367f9bd4b.png)
 
+
 *Stranger Things is an American science fiction horror drama television series created by the Duffer Brothers, who also serve as showrunners and are executive producers along with Shawn Levy and Dan Cohen.*
 
 ---
