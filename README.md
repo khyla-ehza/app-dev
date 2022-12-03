@@ -16,6 +16,7 @@
   
 3. **Miss Peregrine's Home For Peculiar Children** 
 
+
  ![image](https://user-images.githubusercontent.com/103399361/205434873-593a9ddd-6b20-4756-8cd2-4ceac36ee0ee.png)
 
 *Miss Peregrine's Home for Peculiar Children is a 2016 fantasy film directed by Tim Burton and written by Jane Goldman, based on the 2011 novel of the same name by Ransom Riggs.*
