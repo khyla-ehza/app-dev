@@ -5,7 +5,7 @@
 
 ## My Favorite Movies and Series
 1. **Divergent Series** 
- ![image](https://user-images.githubusercontent.com/103399361/205434858-f45be3e9-53c0-40ad-bf8e-42fd51077962.png) 
+ ![image](https://user-images.githubusercontent.com/103399361/205434858-f45be3e9-53c0-40ad-bf8e-42fd51077962.png) [Visit for more information.](https://en.wikipedia.org/wiki/The_Divergent_Series)
 
   *A feature film series based on the Divergent novels by the American author Veronica Roth. Distributed by Summit Entertainment and Lionsgate Films, the series consists of three science fiction action films set in a dystopian society: Divergent, Insurgent, and Allegiant.*
 
