@@ -6,4 +6,3 @@ okok
 
 bago ngayon
 
-naglagay bago
