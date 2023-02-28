@@ -7,3 +7,5 @@ okok
 bago ngayon
 
 bago ulit
+
+bagog bago bago
